@@ -1,0 +1,47 @@
+#login-bg {
+    min-height: 500px;
+    background-color: hsla(0, 0%, 96%, 0.842);
+}
+
+#login-bg-top {
+    /*background-image: url('https://masterbundles.com/wp-content/uploads/edd/2020/10/50.jpg');*/
+    background-image: url('https://www.skateone.com/media/wysiwyg/skateone/pages/home/soc_tshirt_blowout_1000x478.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 60%;
+    height: 150px;
+    display: block;
+    text-align: center;
+}
+
+#login-bg-top h3 {
+    color: #101010;
+}
+
+.logo-circle {
+    background-image: url('https://estampadoslidi.cl/wp-content/uploads/2020/04/foto272.jpg');
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 125px;
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;
+    display: inline-block;
+    border: 5px solid rgba(211,211,211,0.9);
+}
+
+.bg-content {
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 110px;
+    padding-right: 110px;
+    margin-top: 40px;
+    margin-bottom: 90px;
+    background-color: #FFF;
+    min-height: 300px;
+}
+
+.input-group {
+    width: 100%;
+}
